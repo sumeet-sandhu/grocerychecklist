@@ -10,7 +10,7 @@ const Header = () => {
                 <div className="relative h-9 w-9 mr-2">
                     <Image fill alt="Logo" src="/logo.png" />
                 </div>
-                <h1 className="text-3xl font-bold flex flex-row">
+                <h1 className="md:text-3xl font-bold flex flex-row">
                     GroceryChecklist
                 </h1>
             </Link>
